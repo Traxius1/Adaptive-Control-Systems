@@ -1,3 +1,3 @@
 # Adaptive-Control-Systems
 
-Project implemented for the need of Adaptive Control Systems course.
+Project implemented for the needs of Adaptive Control Systems course.
