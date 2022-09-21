@@ -1,8 +1,9 @@
 ### Given the system:
 
-$\dot{\varphi} = p$
-
-$\dot{p} = \vartheta_1\varphi + \vartheta_2p + (\vartheta_3|\varphi| + \vartheta_4|p|)p + \vartheta_5\varphi^3 + \vartheta_6u$
+$$ \begin{align*}
+& \dot{\varphi} = p \\
+& \dot{p} = \vartheta_1\varphi + \vartheta_2p + (\vartheta_3|\varphi| + \vartheta_4|p|)p + \vartheta_5\varphi^3 + \vartheta_6u
+\end{align*} $$
 
 Show that:
 1. (0, 0) is an unstable equilibrium point of the open loop system.
